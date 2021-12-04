@@ -1,0 +1,62 @@
+{
+  "type" : "project",
+  "name" : "pr15",
+  "description" : "Sharp Wave Ripple (SPW-R) Detection",
+  "tags" : "biotech, neuroscience",
+  "metadata" : [
+    {
+      "name" : "data",
+      "type" : "data",
+      "description" : "Data repository",
+      "metadata" : [
+        {
+          "name" : "1",
+          "type" : "data",
+          "description" : "V 1",
+          "metadata" : [
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "model",
+      "type" : "model",
+      "description" : "Model repository",
+      "metadata" : [
+        {
+          "name" : "1",
+          "type" : "data",
+          "description" : "V 1",
+          "metadata" : []
+        }
+      ]
+    },
+    {
+      "name" : "code",
+      "type" : "code",
+      "description" : "Code repository",
+      "metadata" : [
+        {
+          "name" : "todo",
+          "type" : "file",
+          "description" : "todo",
+          "metadata" : []
+        }
+      ]
+    },
+    {
+      "name" : "doc",
+      "type" : "doc",
+      "description" : "Documentation",
+      "metadata" : [
+        {
+          "name" : "PR15.docx",
+          "type" : "file",
+          "description" : "Sharp Wave Ripple (SPW-R) Detection",
+          "metadata" : []
+        }
+      ]
+    }
+  ]
+}
